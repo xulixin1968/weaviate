@@ -21,7 +21,7 @@ require (
 	github.com/hashicorp/memberlist v0.5.2
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/minio/minio-go/v7 v7.0.84
-	github.com/nyaruka/phonenumbers v1.0.54
+	github.com/nyaruka/phonenumbers v1.5.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.20.5
 	github.com/rs/cors v1.5.0
